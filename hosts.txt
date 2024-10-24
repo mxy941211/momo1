@@ -1,0 +1,8 @@
+﻿# Added by Docker Desktop
+10.96.1.156 host.docker.internal
+10.96.1.156 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+13.226.61.63 api.themoviedb.org
+13.226.61.63 image.tmdb.org
+# End of section
